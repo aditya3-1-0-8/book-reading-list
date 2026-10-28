@@ -3,7 +3,7 @@
 A simple app to keep track of books you want to read and books you have finished.
 
 ## Live link
-LIVE_LINK_HERE
+https://book-reading-list-psi.vercel.app
 
 ## Features
 - Add a book with title and author
